@@ -1,3 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =6
 let g:netrw_dirhist_1='/Users/will/Development/6th.Digital/Projects/dispilio-api-server/src/6th.digital/dispilio'
+let g:netrw_dirhist_2='/home/will/Development/6thdigital/Projects/dispilio-api-server/src/6th.digital/dispilio'
+let g:netrw_dirhist_3='/home/will/Development/6thdigital/Projects/dispilio-api-server/src/6th.digital/dispilio/api'
+let g:netrw_dirhist_4='/home/will/Development/6thdigital/Projects/dispilio-api-server/src/6th.digital/dispilio/api/server'
+let g:netrw_dirhist_5='/home/will/Development/6thdigital/Projects/dispilio-api-server/src/6th.digital/dispilio/Godeps/_workspace'
+let g:netrw_dirhist_6='/home/will/.vim'
